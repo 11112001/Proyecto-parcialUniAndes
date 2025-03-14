@@ -16,5 +16,5 @@ Proyecto-parcialUniAndes/
 
 ## 🚀 Instalación y Ejecución
    ```bash
-        https://github.com/11112001/Proyecto-parcialUniAndes
+        git clone https://github.com/11112001/Proyecto-parcialUniAndes
 
